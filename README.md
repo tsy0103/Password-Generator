@@ -11,3 +11,4 @@ I googled a lot of functions, and a JQuery library.
 
 The challenge I met include the using of loops, and I will request an tutor session regarding the github issue, and I will resubmit all assignments for a better score.
 !
+<img width="1427" alt="Screen Shot 2022-09-20 at 1 07 49 AM" src="https://user-images.githubusercontent.com/111820850/191172278-4f27e7bc-63b4-427a-bdcc-cd51c51655f7.png">
